@@ -7,7 +7,7 @@ We got the data from NYC opendata for [2016 crimes](https://data.cityofnewyork.u
 The temperature data of New York City was obtained from Prof. John Kissock’s [website](http://academic.udayton.edu/kissock/http/Weather/citylistUS.htm).
 
 ### Analysis
-The Analysis folder includes scripts of preprocess the data and analysis.
+The Analysis folder includes scripts of preprocessing and analysis of the data.
 
 ### Prediction
 The folder includes jupyter notebook scrips of clean and build the model step by step. Used smaller dataset.
